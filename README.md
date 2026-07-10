@@ -64,24 +64,35 @@ SQL Server &middot; PostgreSQL &middot; CosmosDB
 - SQL performance tuning & query optimisation
 - ETL pipelines & data warehousing
 - Reporting, analytics & BI
-- Data integration & migration
+- Data migration & modelling
 
 </td>
 <td width="50%" valign="top">
 
-**How I Work**
+**Integration & Systems**
 
-Pragmatic &middot; Thorough &middot; AI-accelerated
+REST APIs &middot; Service Bus &middot; SSIS &middot; SSO
+
+- Third-party & partner API integration
+- Identity federation & single sign-on (OAuth / OIDC / SAML)
+- Multi-vendor platform interoperability
+- Enterprise integration & legacy modernisation
+
+</td>
+</tr>
+</table>
+
+---
+
+### How I Work
+
+**Pragmatic &middot; Thorough &middot; AI-accelerated**
 
 - Command a team of AI to do the heavy lifting - I decide what to ask, build and ship
 - Ship working software, not slide decks
 - Treat infrastructure as code, with real engineering
 - Mentor teams and communicate clearly at all levels
 - Leave comprehensive documentation, not tribal knowledge
-
-</td>
-</tr>
-</table>
 
 ---
 

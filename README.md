@@ -30,6 +30,8 @@ Today I build differently: I command a team of AI to do the heavy lifting while 
   <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,terraform,docker,githubactions,postgres,redis,python,typescript,powershell,bash&theme=dark&perline=12" alt="Tech stack" />
 </div>
 
+<br>
+
 **.NET** &middot; C# &middot; ASP.NET Core &middot; Blazor &middot; ServiceStack<br>
 **Cloud & DevOps** &middot; Azure &middot; Terraform &middot; Ansible &middot; GitHub Actions &middot; Docker<br>
 **Data** &middot; SQL Server &middot; PostgreSQL &middot; Cosmos DB &middot; Redis &middot; SSIS<br>

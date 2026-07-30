@@ -52,8 +52,6 @@ Today I build differently: I command a team of AI to do the heavy lifting while 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grinidx/grinidx/output/github-snake.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/grinidx/grinidx/output/github-snake-brand.svg">
   </picture>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinidx&layout=compact&langs_count=8&hide_border=true&title_color=2B6BF3&text_color=9AA1AC&bg_color=0B0E14" alt="Top languages" />
 </div>
 
 ---

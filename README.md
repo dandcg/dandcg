@@ -18,7 +18,7 @@
 
 26 years building software and infrastructure for organisations where failure was expensive - defence, banking, insurance, energy, commodities, healthcare and identity. Full-stack .NET and Azure, from database schema to cloud platform.
 
-Systems I have built have processed **£1B+** in financial remediation and served **700K+** patient records. I built an entire startup platform from scratch and scaled it to **1,500+** locations.
+Systems I have built have processed **£1B+** in financial remediation and served **700K+** patient records. As CTO of a startup I built the entire platform from scratch and scaled it to **1,500+** locations.
 
 Today I build differently: I command a team of AI to do the heavy lifting while I own the decisions - what to ask, what to build, what ships. The judgment is the one I have spent 26 years sharpening; the pace is new.
 
@@ -30,18 +30,15 @@ Today I build differently: I command a team of AI to do the heavy lifting while 
   <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,terraform,docker,githubactions,postgres,redis,python,typescript,powershell,bash&theme=dark&perline=12" alt="Tech stack" />
 </div>
 
-**.NET** &middot; C# &middot; ASP.NET Core &middot; Blazor &middot; ServiceStack
-
-**Cloud & DevOps** &middot; Azure &middot; Terraform &middot; Ansible &middot; GitHub Actions &middot; Docker
-
-**Data** &middot; SQL Server &middot; PostgreSQL &middot; Cosmos DB &middot; Redis &middot; SSIS
-
+**.NET** &middot; C# &middot; ASP.NET Core &middot; Blazor &middot; ServiceStack<br>
+**Cloud & DevOps** &middot; Azure &middot; Terraform &middot; Ansible &middot; GitHub Actions &middot; Docker<br>
+**Data** &middot; SQL Server &middot; PostgreSQL &middot; Cosmos DB &middot; Redis &middot; SSIS<br>
 **Integration** &middot; REST &middot; Service Bus &middot; OAuth / OIDC / SAML SSO
 
 ### Selected work
 
 - **[UniswapSharp](https://github.com/grinidx/UniswapSharp)** - complete C#/.NET port of the Uniswap SDK monorepo (v2-v4, Universal Router, UniswapX, Permit2). Exact `BigInteger` / `BigRational` math, verified to the digit against upstream. 1,694 tests, on NuGet
-- **[babble-cs](https://github.com/grinidx/babble-cs)** - C# implementation of Babble BFT consensus: hashgraph-style gossip and virtual voting
+- **[vela](https://github.com/dbhq-uk/vela-skill)** - compiler-exact code search for .NET: definitions, references, callers and change impact. Roslyn-backed, so Razor and Blazor are indexed
 - **[claude-skills](https://github.com/grinidx/claude-skills)** - personal Claude Code & Codex skills: Garmin health data and OpenAI GPT Image 2 generation
 
 ### Activity

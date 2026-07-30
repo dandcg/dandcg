@@ -3,7 +3,7 @@
 # Daniel Grimes
 
 <a href="https://dbhq.uk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2B6BF3&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+%C2%B7+Cloud+%26+Platform+Architect;Full-stack+.NET+%26+Azure+-+schema+to+cloud+platform;26+years+shipping+regulated-grade+systems;AI-accelerated+delivery%2C+production+grade%2C+in+weeks" alt="Daniel Grimes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2B6BF3&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+-+Full-stack+%26+Database;Cloud+%26+Platform+Architect;26+years%27+experience;Production-grade%2C+AI-accelerated+delivery" alt="Daniel Grimes" />
 </a>
 
 <p>

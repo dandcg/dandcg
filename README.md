@@ -2,97 +2,59 @@
 
 # Daniel Grimes
 
-**Senior Engineer &middot; Cloud Architect &middot; Platform Engineer**
+<a href="https://dbhq.uk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2B6BF3&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+%C2%B7+Cloud+%26+Platform+Architect;Full-stack+.NET+%26+Azure+-+schema+to+cloud+platform;26+years+shipping+regulated-grade+systems;AI-accelerated+delivery%2C+production+grade%2C+in+weeks" alt="Daniel Grimes" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,terraform,powershell,bash,docker,postgres,redis,git&theme=dark&perline=10" />
-
-<br/>
-
-26 years building applications and infrastructure for regulated industries.<br/>
-Full-stack .NET, Azure, Terraform - from database schema to cloud platform.
-
-I've built systems processing £1B+ in financial remediation and cloud platforms<br/>
-serving 700K+ patient records. As CTO of a startup I built the entire platform<br/>
-from scratch, scaling to 1,500+ locations.
-
-Today I build differently: I command a team of AI to do the heavy lifting while I<br/>
-own the decisions - what to ask, what to build, what ships. The judgment is the one<br/>
-I've spent 26 years sharpening; the pace is new.
-
-*I leave every system in a better state than I found it. Open to interesting problems.*
+<p>
+  <a href="https://dbhq.uk"><img src="https://img.shields.io/badge/dbhq.uk-2B6BF3?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/danielgrimes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dan@dbhq.uk"><img src="https://img.shields.io/badge/dan@dbhq.uk-0B0E14?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
 ---
 
-### What I Do
+26 years building software and infrastructure for organisations where failure was expensive - defence, banking, insurance, energy, commodities, healthcare and identity. Full-stack .NET and Azure, from database schema to cloud platform.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Systems I have built have processed **£1B+** in financial remediation and served **700K+** patient records. I built an entire startup platform from scratch and scaled it to **1,500+** locations.
 
-**Application Development**
+Today I build differently: I command a team of AI to do the heavy lifting while I own the decisions - what to ask, what to build, what ships. The judgment is the one I have spent 26 years sharpening; the pace is new.
 
-Full-stack .NET &middot; C# &middot; ASP.NET Core &middot; Blazor &middot; ServiceStack
+**Open to** fixed-price delivery and senior-engineer retainers, remote-first from the UK.
 
-- Web applications, APIs & backend services
-- Message queues, event-driven & microservice architectures
-- Workflow engines & data-driven application frameworks
-- End-to-end delivery from database to UI
+### Stack
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,terraform,docker,githubactions,postgres,redis,python,typescript,powershell,bash&theme=dark&perline=12" alt="Tech stack" />
+</div>
 
-**Cloud, Infrastructure & DevOps**
+**.NET** &middot; C# &middot; ASP.NET Core &middot; Blazor &middot; ServiceStack
 
-Azure &middot; Terraform &middot; Ansible
+**Cloud & DevOps** &middot; Azure &middot; Terraform &middot; Ansible &middot; GitHub Actions &middot; Docker
 
-- Cloud platform architecture & environment design
-- Networking, security & hybrid connectivity
-- CI/CD pipelines, IaC & automated deployments
-- Multi-environment deployments at scale
+**Data** &middot; SQL Server &middot; PostgreSQL &middot; Cosmos DB &middot; Redis &middot; SSIS
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Integration** &middot; REST &middot; Service Bus &middot; OAuth / OIDC / SAML SSO
 
-**Data & Databases**
+### Selected work
 
-SQL Server &middot; PostgreSQL &middot; CosmosDB
+- **[UniswapSharp](https://github.com/grinidx/UniswapSharp)** - complete C#/.NET port of the Uniswap SDK monorepo (v2-v4, Universal Router, UniswapX, Permit2). Exact `BigInteger` / `BigRational` math, verified to the digit against upstream. 1,694 tests, on NuGet
+- **[babble-cs](https://github.com/grinidx/babble-cs)** - C# implementation of Babble BFT consensus: hashgraph-style gossip and virtual voting
+- **[claude-skills](https://github.com/grinidx/claude-skills)** - personal Claude Code & Codex skills: Garmin health data and OpenAI GPT Image 2 generation
 
-- SQL performance tuning & query optimisation
-- ETL pipelines & data warehousing
-- Reporting, analytics & BI
-- Data migration & modelling
+### Activity
 
-</td>
-<td width="50%" valign="top">
-
-**Integration & Systems**
-
-REST APIs &middot; Service Bus &middot; SSIS &middot; SSO
-
-- Third-party & partner API integration
-- Identity federation & single sign-on (OAuth / OIDC / SAML)
-- Multi-vendor platform interoperability
-- Enterprise integration & legacy modernisation
-
-</td>
-</tr>
-</table>
-
----
-
-### How I Work
-
-**Pragmatic &middot; Thorough &middot; AI-accelerated**
-
-- Command a team of AI to do the heavy lifting - I decide what to ask, build and ship
-- Ship working software, not slide decks
-- Treat infrastructure as code, with real engineering
-- Mentor teams and communicate clearly at all levels
-- Leave comprehensive documentation, not tribal knowledge
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grinidx/grinidx/output/github-snake-brand.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grinidx/grinidx/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/grinidx/grinidx/output/github-snake-brand.svg">
+  </picture>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinidx&layout=compact&langs_count=8&hide_border=true&title_color=2B6BF3&text_color=9AA1AC&bg_color=0B0E14" alt="Top languages" />
+</div>
 
 ---
 
@@ -100,11 +62,7 @@ REST APIs &middot; Service Bus &middot; SSIS &middot; SSO
 
 **I run [DBHQ](https://dbhq.uk) - senior engineering, AI-accelerated**
 
-<br/>
-
 [![DBHQ](https://img.shields.io/badge/DBHQ-dbhq.uk-2B6BF3?style=for-the-badge)](https://dbhq.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgrimes/)
-
-UK
 
 </div>

@@ -27,14 +27,14 @@ Today I build differently: I command a team of AI to do the heavy lifting while 
 ### Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,python,typescript,js,html,azure,terraform,docker,githubactions,postgres,redis,powershell,bash&theme=dark&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,rust,python,typescript,js,html,azure,aws,terraform,ansible,kubernetes,docker,githubactions,azuredevops,postgres,redis,git,powershell,bash,css,openai,anthropic&theme=dark&perline=8" alt="Tech stack" />
 </div>
 
 <br>
 
-**Languages** &middot; C# &middot; Go &middot; Rust &middot; Python &middot; TypeScript / JavaScript &middot; T-SQL &middot; PowerShell &middot; Bash &middot; HTML / CSS<br>
+**Languages** &middot; C# &middot; Go &middot; Rust &middot; Python &middot; TypeScript / JavaScript &middot; T-SQL &middot; HCL &middot; Bicep &middot; PowerShell &middot; Bash &middot; HTML / CSS<br>
 **.NET** &middot; ASP.NET Core &middot; Blazor &middot; ServiceStack<br>
-**Cloud & DevOps** &middot; Azure &middot; Terraform &middot; Ansible &middot; GitHub Actions &middot; Docker<br>
+**Cloud & DevOps** &middot; Azure &middot; AWS &middot; Terraform &middot; Ansible &middot; Kubernetes (AKS) &middot; Docker &middot; GitHub Actions &middot; Azure DevOps<br>
 **Data** &middot; SQL Server &middot; PostgreSQL &middot; Cosmos DB &middot; Redis &middot; SSIS<br>
 **Integration** &middot; REST &middot; Service Bus &middot; OAuth / OIDC / SAML SSO
 
@@ -42,8 +42,6 @@ Today I build differently: I command a team of AI to do the heavy lifting while 
 
 - **[heliograph](https://github.com/dbhq-uk/heliograph)** - remote, captured, auditable execution on a machine you cannot log into. You publish a step, the operator runs it on the far side, and the whole run comes back as a log with every line stamped in UTC. Go CLI, plain-bash station, and a relay that cannot read a byte of what it carries. [heliograph.dbhq.uk](https://heliograph.dbhq.uk)
 - **[UniswapSharp](https://github.com/grinidx/UniswapSharp)** - complete C#/.NET port of the Uniswap SDK monorepo (v2-v4, Universal Router, UniswapX, Permit2). Exact `BigInteger` / `BigRational` math, verified to the digit against upstream. 1,694 tests, on NuGet
-- **[vela](https://github.com/dbhq-uk/vela-skill)** - compiler-exact code search for .NET: definitions, references, callers and change impact. Roslyn-backed, so Razor and Blazor are indexed
-- **[garmin](https://github.com/dbhq-uk/garmin-skill)** and **[gpt-image-2](https://github.com/dbhq-uk/gpt-image-2-skill)** - Claude Code & Codex skills: Garmin Connect health data, and OpenAI GPT Image 2 generation and editing
 
 More of the delivery work is given away as agent skills for Claude Code and Codex - free, open, one command to install: **[dbhq.uk/skills](https://dbhq.uk/skills/)**
 
